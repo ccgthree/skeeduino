@@ -1,0 +1,13 @@
+Pin #		Item
+8		Score 100 (x2)
+7		Score 50
+6		Score 40
+5		Score 30
+4		Score 20
+3		Score 10
+2		Score 0
+
+10		Reset Button
+11		Servo (Not in use)
+12		Score Display
+13		Ball Display
